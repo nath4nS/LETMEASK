@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src='./assets/images/logo.svg' />
+  LETMEASK
 </h2>
 
 <h4 align="center">:rocket: Projeto</h4>
