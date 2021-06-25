@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="./assets/images/logo.svg" widht: 50px/>
+  <img src='./assets/images/logo.svg' />
 </h2>
 
 <h4 align="center">:rocket: Projeto</h4>
